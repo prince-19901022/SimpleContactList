@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="civ_width">100dp</dimen>
+    <dimen name="civ_height">100dp</dimen>
+
+    <dimen name="txt_size">22sp</dimen>
+    <dimen name="tick_w">40dp</dimen>
+    <dimen name="tick_h">40dp</dimen>
+
+    <dimen name="padding">10dp</dimen>
+
+    <dimen name="row_icon">50dp</dimen>
+    <dimen name="row_txt">20sp</dimen>
+    <dimen name="row_txt2">18sp</dimen>
+    <dimen name="row_margin1">12dp</dimen>
+    <dimen name="row_margin2">15dp</dimen>
+
+    <dimen name="footer_txt">25sp</dimen>
+</resources>

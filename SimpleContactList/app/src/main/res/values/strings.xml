@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleContactList</string>
+    <string name="lm">LOAD MORE</string>
+
+    <string name="my_name">Md. Nahidul Islam</string>
+    <string name="my_num">01845988081</string>
+</resources>
